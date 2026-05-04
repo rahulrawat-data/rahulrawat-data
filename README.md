@@ -1,16 +1,14 @@
-## Hi there 👋
+# Rahul Rawat
 
-<!--
-**rahulrawat-data/rahulrawat-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst. Self-taught. Building things that work.
 
-Here are some ideas to get you started:
+Stack: Python · SQL · Power BI · Tableau · Streamlit · Excel  
+Certified: IBM Data Analytics · IBM Python for Data Science  
+Education: BA Humanities — Delhi University, 2025  
+Location: India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects range from predictive health analysis to deployed
+recommendation systems to voice-controlled analytics tools.
+
+Currently open to Data Analyst and Business Analyst roles.
+Contact: [your email]
