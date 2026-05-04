@@ -11,4 +11,3 @@ Projects range from predictive health analysis to deployed
 recommendation systems to voice-controlled analytics tools.
 
 Currently open to Data Analyst and Business Analyst roles.
-Contact: [your email]
